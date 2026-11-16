@@ -1,0 +1,7 @@
+D:\Universidad\4.5.- Lenguaje de programación III () Miguel Rodriguez\Actividad 1\Actividad1_Consola\bin\Debug\Actividad1_Consola.exe.config
+D:\Universidad\4.5.- Lenguaje de programación III () Miguel Rodriguez\Actividad 1\Actividad1_Consola\bin\Debug\Actividad1_Consola.exe
+D:\Universidad\4.5.- Lenguaje de programación III () Miguel Rodriguez\Actividad 1\Actividad1_Consola\bin\Debug\Actividad1_Consola.pdb
+D:\Universidad\4.5.- Lenguaje de programación III () Miguel Rodriguez\Actividad 1\Actividad1_Consola\obj\Debug\Actividad1_Consola.csproj.AssemblyReference.cache
+D:\Universidad\4.5.- Lenguaje de programación III () Miguel Rodriguez\Actividad 1\Actividad1_Consola\obj\Debug\Actividad1_Consola.csproj.CoreCompileInputs.cache
+D:\Universidad\4.5.- Lenguaje de programación III () Miguel Rodriguez\Actividad 1\Actividad1_Consola\obj\Debug\Actividad1_Consola.exe
+D:\Universidad\4.5.- Lenguaje de programación III () Miguel Rodriguez\Actividad 1\Actividad1_Consola\obj\Debug\Actividad1_Consola.pdb

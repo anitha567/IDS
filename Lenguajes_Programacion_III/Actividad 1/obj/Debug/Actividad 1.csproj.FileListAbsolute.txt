@@ -1,0 +1,10 @@
+D:\Universidad\4.5.- Lenguaje de programación III () Miguel Rodriguez\Actividad 1\Actividad 1\bin\Debug\Actividad 1.exe.config
+D:\Universidad\4.5.- Lenguaje de programación III () Miguel Rodriguez\Actividad 1\Actividad 1\bin\Debug\Actividad 1.exe
+D:\Universidad\4.5.- Lenguaje de programación III () Miguel Rodriguez\Actividad 1\Actividad 1\bin\Debug\Actividad 1.pdb
+D:\Universidad\4.5.- Lenguaje de programación III () Miguel Rodriguez\Actividad 1\Actividad 1\obj\Debug\Actividad 1.csproj.AssemblyReference.cache
+D:\Universidad\4.5.- Lenguaje de programación III () Miguel Rodriguez\Actividad 1\Actividad 1\obj\Debug\Actividad_1.frmExpediente.resources
+D:\Universidad\4.5.- Lenguaje de programación III () Miguel Rodriguez\Actividad 1\Actividad 1\obj\Debug\Actividad_1.Properties.Resources.resources
+D:\Universidad\4.5.- Lenguaje de programación III () Miguel Rodriguez\Actividad 1\Actividad 1\obj\Debug\Actividad 1.csproj.GenerateResource.cache
+D:\Universidad\4.5.- Lenguaje de programación III () Miguel Rodriguez\Actividad 1\Actividad 1\obj\Debug\Actividad 1.csproj.CoreCompileInputs.cache
+D:\Universidad\4.5.- Lenguaje de programación III () Miguel Rodriguez\Actividad 1\Actividad 1\obj\Debug\Actividad 1.exe
+D:\Universidad\4.5.- Lenguaje de programación III () Miguel Rodriguez\Actividad 1\Actividad 1\obj\Debug\Actividad 1.pdb
